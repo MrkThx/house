@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="63.5mm" height="112.945mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1180 2099"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M1180 0l-1180 0 0 2099 1180 0 0 -2099z"/>
+   </clipPath>
+ </defs>
+ <g id="圖層_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon fill="#FEFEFE" points="1180,0 0,0 0,2099 1180,2099 "/>
+  <g clip-path="url(#id0)">
+   <g id="_905197176">
+    <path id="1" fill="#F7E017" d="M18 -80c0,0 525,-91 659,190 121,251 243,367 297,388 53,21 189,72 386,-78 196,-149 70,-244 550,-174 480,71 -203,-621 -203,-621l-700 -8 -989 303z"/>
+    <path fill="#234F2D" d="M-690 2114c0,0 290,78 313,-217 24,-295 247,-430 300,-451 54,-22 296,-92 492,58 197,149 -17,376 563,390 328,8 350,500 350,500l-1273 -8 -745 -272z"/>
+   </g>
+  </g>
+  <polygon fill="none" points="1180,0 0,0 0,2099 1180,2099 "/>
+ </g>
+</svg>

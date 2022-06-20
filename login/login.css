@@ -1,0 +1,94 @@
+
+#body {
+  background-image: url("./login/login_background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1335px;
+  width: 100%;
+  margin: 0px;
+}
+#login_logo {
+  position: absolute;
+  width: 50%;
+  top: 25%;
+  left: 23%;
+}
+#gray_background {
+  background-image: url("./login/gray_background.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  width: 80%;
+  height: 30%;
+  top: 47%;
+  left: 9%;
+}
+#account_region {
+  background-image: url("./login/account.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  width: 73%;
+  height: 25%;
+  top: 15%;
+  left: 13%;
+} 
+#account_input {
+  position: absolute;
+  border: 0px;
+  padding: 0px;
+  height: 50%;
+  width: 60%;
+  top: 5%;
+  left: 10%;
+  font-size: 45px;
+  font-family: "微軟正黑體", sans-serif;
+  font-weight: bold;
+  color: #234F2D
+}
+#password_region {
+  background-image: url("./login/account.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  width: 73%;
+  height: 25%;
+  top: 40%;
+  left: 13%;
+}
+#password_input {
+  position: absolute;
+  border: 0px;
+  padding: 0px;
+  height: 50%;
+  width: 60%;
+  top: 5%;
+  left: 10%;
+  font-size: 45px;
+  font-family: "微軟正黑體", sans-serif;
+  font-weight: bold;
+  color: #234F2D
+} 
+#button {
+  background-image: url("./login/login.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  width: 73%;
+  height: 25%;
+  top: 65%;
+  left: 13%;
+}
+#login_text {
+  position: absolute;
+  border: 0px;
+  padding: 0px;
+  height: 50%;
+  width: 60%;
+  top: 5%;
+  left: 40%;
+  font-size: 45px;
+  font-family: "微軟正黑體", sans-serif;
+  font-weight: bold;
+  color: #F0F0F0
+}
