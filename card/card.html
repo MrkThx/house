@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset= "UTF-8"></meta>
+        <meta property="fb:app_id" content="123456789" />
+        <title>抽卡</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <link rel= "stylesheet" href= "card.css"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    </head>
+    <body id="main">
+        <div id = "body">
+            <img src="./card/title.svg" id="HxH_title">
+            <img src="./card/title.png" id="title_background">
+            <div id="account_region">
+                <img src="./card/HXH.png" id="HXH">
+                <div id="account_word1" class="word">HxH點數：</div>
+                <div id="account_number" class="word"></div>
+                <div id="account_word2" class="word"></div>
+            </div>
+            <div id="bando_region">
+                <img src="./card/bando.png" id="bando1" class="bando"> 
+                <img src="./card/bando.png" id="bando2" class="bando"> 
+                <img src="./card/bando.png" id="bando3" class="bando"> 
+                <img src="./card/bando.png" id="bando4" class="bando"> 
+            </div>
+            <div id="reward_region">
+                <div id="reward_word" class="word">可能獲得</div>
+                <div id="reward1" class="word">SEVEN-ELEVEN 50元 商品禮卷</div>
+                <div id="reward2" class="word">e-SCOOTER 騎乘次數 1</div>
+                <div id="reward3" class="word">e-SCOOTER 騎乘次數 2</div>
+                <div id="reward4" class="word">e-SCOOTER 騎乘次數 3</div>
+            </div>
+            <div id="bottom_background">
+                <img src="./card/house.svg" id="house">
+                <img src="./card/plus.svg" id="plus">
+                <img src="./card/position.svg" id="position">
+                <img src="./card/luckyleaf.svg" id="luckyleaf">
+                <img src="./card/pperson.png" id="usericon">
+            </div>
+        </div>
+        
+        <div id="reward_window">
+            <div id="reward_window_word1" class="word">恭喜獲得：</div>
+            <div id="reward_window_word2" class="word"></div>
+            <img src="./card/close_button.png" id="reward_window_close">
+        </div>
+        <div id="notice_window">
+            <div id="notice_window_word1" class="word">規則：</div>
+            <div id="notice_window_word2" class="word">抽一次卡消耗50HxH Point</div>
+            <img src="./card/close_button.png" id="notice_window_close">
+    </body>
+    
+    <script src= "card.js"></script>
+</html>

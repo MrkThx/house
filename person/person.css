@@ -1,0 +1,149 @@
+#main {
+    margin: 0px;
+}
+#body {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    height: 1335px;
+    width: 100%;
+}
+#title {
+    position: absolute;
+    width: 100%;
+}
+#person {
+    position: absolute;
+    width: 20%;
+    top: 10%;
+    left: 13%;
+}
+#name {
+    position: absolute;
+    font-size: 70px;
+    top: 13%;
+    left: 40%;
+    font-weight: bolder;
+}
+#ride_time_text {
+    position: absolute;
+    font-size: 60px;
+    top: 25%;
+    left: 5%;
+    font-weight: bolder;
+    color: #234F2D;
+}
+#ride_time {
+    position: absolute;
+    font-size: 60px;
+    top: 35%;
+    left: 7%;
+    font-weight: bolder;
+    color: orange;
+}
+#point_text {
+    position: absolute;
+    font-size: 60px;
+    top: 25%;
+    left: 36%;
+    font-weight: bolder;
+    color: #234F2D;
+}
+#point {
+    position: absolute;
+    font-size: 60px;
+    top: 35%;
+    left: 38%;
+    font-weight: bolder;
+    color: orange;
+}
+#voucher_text {
+    position: absolute;
+    font-size: 60px;
+    top: 25%;
+    left: 72%;
+    font-weight: bolder;
+    color: #234F2D;
+}
+#voucher {
+    position: absolute;
+    font-size: 60px;
+    top: 35%;
+    left: 74%;
+    font-weight: bolder;
+    color: orange;
+}
+
+.word {
+    font-family: "微軟正黑體", sans-serif;
+}
+
+#line1 {
+    background-color: orange;
+    position: absolute;
+    width: 0.5%;
+    height: 13%;
+    top: 27%;
+    left: 33%;
+}
+#line2 {
+    background-color: orange;
+    position: absolute;
+    width: 0.5%;
+    height: 13%;
+    top: 27%;
+    left: 69%;
+}
+#gray_line {
+    background-color: rgb(237, 235, 235);
+    position: absolute;
+    width: 100%;
+    height: 4%;
+    top: 51.8%;
+    left: 0%;
+}
+#scooter {
+    position: absolute;
+    width: 100%;
+    top: 56%;
+    left: 0%;
+}
+#bottom_line {
+    background-image: url("./person/title.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 7%;
+    bottom: 0%;
+}
+#house {
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    left: 10%;
+}
+#position {
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    left: 28%;
+}
+#plus {
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    left: 46%;
+}
+#luckyleaf {
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    left: 64%;
+}
+#usericon {
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    left: 82%;
+}

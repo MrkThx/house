@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="60.9306mm" height="42.6064mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1956 1367"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M119 33l1739 0c53,0 96,43 96,96l0 1141c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1141c0,-53 44,-96 97,-96z"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M119 33l1739 0c53,0 96,43 96,96l0 1141c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1141c0,-53 44,-96 97,-96z"/>
+   </clipPath>
+   <clipPath id="id2">
+    <path d="M98 1l1739 0c53,0 96,44 96,97l0 1140c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1140c0,-53 44,-97 97,-97z"/>
+   </clipPath>
+   <clipPath id="id3">
+    <path d="M98 1l1739 0c53,0 96,44 96,97l0 1140c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1140c0,-53 44,-97 97,-97z"/>
+   </clipPath>
+ </defs>
+ <g id="圖層_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#C9CACA" d="M119 33l1739 0c53,0 96,43 96,96l0 1141c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1141c0,-53 44,-96 97,-96z"/>
+  <g clip-path="url(#id0)">
+  </g>
+  <path id="1" fill="none" stroke="#DCDDDD" stroke-width="2.44565" d="M119 33l1739 0c53,0 96,43 96,96l0 1141c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1141c0,-53 44,-96 97,-96z"/>
+  <g clip-path="url(#id1)">
+   <path id="2" fill="none" stroke="#DCDDDD" stroke-width="2.44565" d="M22 33l1932 1333m0 -1333l-1932 1333"/>
+  </g>
+  <path fill="#FEFEFE" d="M98 1l1739 0c53,0 96,44 96,97l0 1140c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1140c0,-53 44,-97 97,-97z"/>
+  <g clip-path="url(#id2)">
+  </g>
+  <path id="1" fill="none" stroke="#FEFEFE" stroke-width="2.44565" d="M98 1l1739 0c53,0 96,44 96,97l0 1140c0,53 -43,96 -96,96l-1739 0c-53,0 -97,-43 -97,-96l0 -1140c0,-53 44,-97 97,-97z"/>
+  <g clip-path="url(#id3)">
+   <path id="2" fill="none" stroke="#FEFEFE" stroke-width="2.44565" d="M1 1l1932 1333m0 -1333l-1932 1333"/>
+  </g>
+ </g>
+</svg>

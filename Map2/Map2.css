@@ -1,0 +1,103 @@
+#upper {
+    height: 5em;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./Map2/upper.svg');
+}
+#scooter {
+    height: 25em;
+    width: 100vw;
+    position: fixed;
+    top: 5em;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./Map2/scooter2.jpg');
+}
+th {
+    font-size: 3em;
+    border-bottom: 5px solid;
+    border-color: rgb(47, 255, 113);
+    height: 2em;
+}
+td {
+    font-size: 2em;
+    height: 5em;
+}
+table {
+    padding: 15px;
+    border: 3px solid;
+    border-color: #cdcccc;
+    margin-left: 2vw;
+    width: 94vw;
+    margin-top: 32em;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 13px 13px #cdcccc;
+    font-family: 微軟正黑體 !important;
+    font-weight: bold;
+    margin-bottom: 11vh;
+}
+tr:nth-child(2n) {
+    background: rgb(235, 235, 235);
+}
+button {
+    font-size: 1em;
+    padding: 0.5em;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: orange; /* Green */
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+}
+#under {
+    position: fixed;
+    height: 8vh;
+    width: 100vw;
+    left: 0;
+    bottom: 0;
+    background-color: #234f2d;
+}
+.underStyle {
+    width: 5em;
+    height: 5em;
+    margin-top: 1.5em;
+    background-repeat: no-repeat;
+    margin-left: 5em;
+    float: left;
+}
+#home {
+    background-image: url('./Map2/HxHhome.svg');
+}
+#where {
+    background-image: url('./Map2/HxHwhere_activated.svg');
+    margin-left: 7.2em;
+}
+#add {
+    background-image: url('./Map2/HxHadd.svg');
+    margin-left: 6em;
+}
+#clover{
+    background-image: url('./Map2/clover.svg');
+    margin-left: 7em;
+}
+#person {
+    background-image: url('./Map2/pperson.png');
+    width: 12vw;
+    height: 12vw;
+    float: right;
+    margin-right: 3em;
+    margin-top: 0.7em;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
